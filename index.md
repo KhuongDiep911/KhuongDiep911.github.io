@@ -9,4 +9,4 @@ bigimg:
 
 Khuong G. T. Diep has a B.Sc. in Aerospace Engineering from the Ho Chi Minh City University of Technology (HCMUT) and is currently working as a Graduate Research Assistant at [Human-Computer Interaction Lab](http://home.sejong.ac.kr/~ykim/).
 
-For more details, please visit the [About Me section]  #(https://yurirocha.com/aboutme/)
+For more details, please visit the [About Me section]
