@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.yurirocha.com"
+url: "https://www.khuongdiep.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Yuri Rocha
+title: Khuong Diep
 
 # Short description of your site
 description: I have a B.Sc. in Control and Automation Engineering from the University of Brasilia (UnB). I am currently pursuing a Master’s degree in Electrical and Computer Engineering at Sungkyunkwan University.
@@ -23,9 +23,9 @@ description: I have a B.Sc. in Control and Automation Engineering from the Unive
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Publications: "publications"
-  Resume/CV: "assets/cv_yuri_website.pdf"
+  About Me: #"aboutme"
+  Publications: #"publications"
+  Resume/CV: #"assets/cv_yuri_website.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -62,7 +62,7 @@ footer-link-col: "#303a8c"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Yuri Rocha
+  name: Khuong Diep
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "yurirocha.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "khuongdiep.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -101,7 +101,7 @@ url-pretty: "yurirocha.com"  # eg. "deanattali.com/beautiful-jekyll"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-123148856-1"
+google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
