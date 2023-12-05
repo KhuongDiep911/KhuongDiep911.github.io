@@ -3,7 +3,9 @@ layout: page
 title: About me
 ---
 
-My name is Yuri Rocha and I am a Brazilian who's currently living in South Korea. I have a B.Sc. in Control and Automation Engineering from the University of Brasilia (UnB) and a M.Sc. in Electrical and Computer Engineering from Sungkyunkwan University (SKKU). I am currently working as a Machine Learning Research Engineer at MakinaRocks (Seoul, South Korea).
+My name is Diep Giang Thuy Khuong and I am a Vietnamese who's pursuing a Master’s degree at Sejong University, South Korea. I am passionate about AI development and application and am working as a Graduate Research Assistant in the Human-Computer Interaction lab. My research focuses on Vision-based Deep Reinforcement Learning for Drone Obstacle Avoidance.
+
+My life motto is: "You only fail when you stop trying”
 
 ---
 ### My History
