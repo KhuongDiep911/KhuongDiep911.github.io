@@ -20,7 +20,7 @@ Future intelligent drone research (미래 지능형 드론연구) funded by Nati
 ***
 ## Awards
 ### 2023
-* **Best Paper Award** issued by the Annual Conference of KIPS 2023. [(Link)](http://kips.or.kr/societyAwards)
+* **Best Paper Award** issued by the Annual Conference of KIPS 2023. [(Link)](https://khuongdiep911.github.io/assets/Best_Paper_Award.pdf)
 
 ### 2022
 * Accepted to study Master student at Sejong University
