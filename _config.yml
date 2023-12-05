@@ -16,15 +16,15 @@ baseurl: ""
 # Name of website
 title: Khuong Diep
 
-# Short description of your site
-description: I have a B.Sc. in Control and Automation Engineering from the University of Brasilia (UnB). I am currently pursuing a Master’s degree in Electrical and Computer Engineering at Sungkyunkwan University.
+# # Short description of your site
+# description: I have a B.Sc. in Control and Automation Engineering from the University of Brasilia (UnB). I am currently pursuing a Master’s degree in Electrical and Computer Engineering at Sungkyunkwan University.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: #"aboutme"
-  Publications: #"publications"
+  Resources: #"resources"
   Resume/CV: #"assets/cv_yuri_website.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -39,7 +39,7 @@ avatar: "/img/IMG.jpg"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1e1e1e"
+navbar-col: "#A60000"
 navbar-text-col: "#e6e3db"
 navbar-children-col: "#1e1e1e"
 page-col: "#232323"
@@ -69,9 +69,10 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  email: "yurirocha@ieee.org"
-  github: yurirocha15
-  linkedin: yurirocha15
+  email: "thuykhuong911@gmail.com"
+  facebook: giangthuykhuong.diep
+  github: KhuongDiep911
+  linkedin: khuonggiangthuydiep
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  xing: yourname
