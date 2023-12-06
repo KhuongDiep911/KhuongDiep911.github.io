@@ -25,7 +25,7 @@ As a way to provide to children in need a chance to interact with real robots, w
 <p>
 <div class="wrapper">
     <div class="h_iframe">
-        <iframe src="https://drive.google.com/file/d/1HexY4Ni-ji5Qaq-5C1UBHMlCBt2SsrEX/view?usp=sharing" 
+        <iframe src="https://drive.google.com/file/d/1HexY4Ni-ji5Qaq-5C1UBHMlCBt2SsrEX/preview" 
         frameborder="0" 
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
