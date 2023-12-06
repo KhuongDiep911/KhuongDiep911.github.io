@@ -3,33 +3,29 @@ layout: page
 title: About me
 ---
 
-My name is Diep Giang Thuy Khuong and I am a Vietnamese who's pursuing a Master’s degree at Sejong University, South Korea. I am passionate about AI development and application. I am currently working as a Graduate Research Assistant in the Human-Computer Interaction lab. My research focuses on Vision-based Deep Reinforcement Learning for Drone Obstacle Avoidance.
+Khuong G. T. Diep is passionate about AI development and application. He is currently pursuing a Master’s degree at Sejong University and working as a Graduate Research Assistant in the Human-Computer Interaction lab. His research currently focuses on Vision-based Deep Reinforcement Learning for Drone Obstacle Avoidance.
 
-My life motto is: "You only fail when you stop trying”
+During his undergraduate education, Khuong realized he had a passion for Artificial Intelligence, and wanted to use it to tackle real-world problems. This passion motivated his decision to pursue postgraduate education, leading him to enroll in the Master’s program after completing his Bachelor of Engineering in Aerospace Engineering in 2021. He graduated from the university with a very-good degree and at the top 3% of students in the Faculty of Transportation (Top 4 out of 150 students).
+
+His life motto is: ”You only fail when you stop trying”
 
 ---
 ### My History
 
-My academic life started when I entered the University of Brasilia (2011). During my undergraduate studies, I had a keen interest in learning as much as possible from different areas, but foremost, to share the knowledge and the experience that I have been given. I was part of the “Electron Project” (2013-2014, 2015-2016), which was created by the IEEE UnB Student Branch. As a voluntary of this project, I gave practical lessons about Electronics for high school students, in order to encourage them to ingress into Engineering courses at Federal Universities.
+My academic path 
 
 ![Electron Project](img/electron.png)
 *Electron Project - 2016*
 
-In the third year of my graduation, I was eager to engage in more practical activities, on which I could apply concepts learned on theory and see how they translate to the physical world. Hence, I joined the UnBeatables Robot Soccer Team (2014), wherein I developed the robot behavior and computer vision regarding a soccer match. On that same year, we won the first place in the RoboCup SPL Drop-In Only league.
 
-In 2014, I received an exchange student scholarship from the Science Without Borders Program, which led me to study for one year in South Korea, at Sungkyunkwan University. There I was able to study subjects from the Computer Engineering major in such way to compliment my studies in Brazil, enlarging my perspective of my field of study. I also completed two internships in the Advanced Institutes of Convergence Technology (Winter, 2015) and in the Hyundai Motor Company (Summer, 2015), which further enriched my experience in Korea.
 
-After coming back to Brazil, in 2015, I rejoined the UnBeatables team as the development leader. In the same year and in 2016 we received several awards from different competitions: first place on the Latin American Robot Soccer Competition (2015, 2016) and first place on the RoboCup SPL Drop-In MVP Individuals (2016).
-
-![Robocup 2016](img/robocup.jpg)
-*Robocup Leipzig - 2016*
 
 As a way to provide to children in need a chance to interact with real robots, we created the UnBeatables outreach project, where we performed ludic presentations in public schools and children hospitals.
 
 <p>
 <div class="wrapper">
     <div class="h_iframe">
-        <iframe src="https://drive.google.com/file/d/1XBAO57M1xRluizfFkuugE6afXKtCOigx/preview" 
+        <iframe src="https://drive.google.com/file/d/1HexY4Ni-ji5Qaq-5C1UBHMlCBt2SsrEX/view?usp=sharing" 
         frameborder="0" 
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
