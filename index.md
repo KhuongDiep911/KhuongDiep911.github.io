@@ -9,4 +9,4 @@ bigimg:
 
 Khuong G. T. Diep has a B.Sc. in Aerospace Engineering from the Ho Chi Minh City University of Technology (HCMUT) and is currently studying Master's Degree in Computer Science and Engineering at Sejong University.
 
-For more details, please visit the [About Me section]
+For more details, please visit the [[About Me section](https://khuongdiep911.github.io/aboutme/)].
