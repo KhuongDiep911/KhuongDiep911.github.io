@@ -5,8 +5,6 @@ title: About me
 
 Hi, I'm Diep Giang Thuy Khuong, but you can call me Khuong. I hold a dual academic background, with a bachelor's degree in Aerospace Engineering and currently pursuing a master's degree while working as a graduate research assistant at the Human-Computer Interaction Lab, Sejong University. In essence, I would describe myself as honest, responsible, and resilient.
 
-In essence, I would describe myself as honest, responsible, and resilient. When faced with challenges, I openly admit when I don't know something but proactively seek solutions. I am committed to meeting deadlines, and my can-do attitude enables me to thrive even under high-pressure situations. An example of this resilience is evident in my completion of the six-year drone project, overcoming unexpected setbacks and ultimately achieving success in navigating the drone through challenging tests (sucess 8/10 trials).
-
 My life motto is: ”You only fail when you stop trying”
 
 ---
