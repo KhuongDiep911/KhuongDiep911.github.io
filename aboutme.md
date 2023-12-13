@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-Hi, I'm Diep Giang Thuy Khuong, but you can call me Khuong. I hold a dual academic background, with a bachelor's degree in Aerospace Engineering and currently pursuing a master's degree while working as a graduate research assistant at the Human-Computer Interaction Lab, Sejong University. In essence, I would describe myself as honest, responsible, and resilient.
+Hi, I'm Diep Giang Thuy Khuong, but you can call me Khuong. I hold a dual academic background, with a bachelor's degree in Aerospace Engineering and currently pursuing a master's degree while working as a graduate research assistant at the Human-Computer Interaction Lab, Sejong University. In essence, I would describe myself as honest, responsible, and resilient person. When faced with challenges, I openly admit when I don't know something but proactively seek solutions. I am committed to meeting deadlines, and my can-do attitude enables me to thrive even under high-pressure situations.
 
 My life motto is: ”You only fail when you stop trying”
 
@@ -30,7 +30,7 @@ My accomplishments include winning a Consolation prize in the Aeroday 2019 Aircr
 ![Aeroday Contest](img/contest.jpg)
 *Aeroday Contest - 2019 ([Link](https://oisp.hcmut.edu.vn/en/student-life/aeroday-2019-aircraft-design-and-control-competition.html))*
 
-When faced with challenges, I openly admit when I don't know something but proactively seek solutions. I am committed to meeting deadlines, and my can-do attitude enables me to thrive even under high-pressure situations. An example of this resilience is evident during in my Masters course. I completed the six-year drone project, overcoming unexpected setbacks when the program of the previous Korean student disappeared. And I need to study and comprehend the process of training a drone using DRL in simulation, starting from scratch, and subsequently deploying it in a real-world scenario within 8 months. Despite the initial obstacles, my commitment and diligent efforts paid off.My drone was able to navigate through 5 obstacles and achieved a 90% success rate in simulation and 80% when deployed in the real world on a Bebop drone after fine-tuning with real-world images. I also recently won the Outstanding Paper Award (우수 논문상) given by the KIPS 2023 Annual Conference (Korean conference).
+During my Masters course. I overcomed unexpected setbacks when the program of the previous Korean student disappeared and completed the six-year drone project. I spent a lot of effort to study and comprehend the process of training a drone using DRL in simulation, starting from scratch, and subsequently deploying it in a real-world scenario within 8 months. Despite the initial obstacles, my commitment and diligent efforts paid off. My drone was able to navigate through 5 obstacles and achieved a 90% success rate in simulation and 80% when deployed in the real world on a Bebop drone after fine-tuning with real-world images. I also recently won the Outstanding Paper Award (우수 논문상) given by the KIPS 2023 Annual Conference (Korean conference).
 
 <p>
 <div class="wrapper">
