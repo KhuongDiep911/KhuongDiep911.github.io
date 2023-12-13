@@ -5,7 +5,7 @@ title: About me
 ---
 Hi, I'm Diep Giang Thuy Khuong, but you can call me Khuong. During my undergraduate education, I realized I had a passion for Artificial Intelligence, and want to use it to tackle real-world problems. This passion motivated my decision to pursue postgraduate education, leading me to enroll in the Master’s program after completing my Bachelor degree in 2021. Therefore, I hold a dual academic background, with a bachelor's degree in Aerospace Engineering and currently pursuing a master's degree while working as a graduate research assistant at the Human-Computer Interaction Lab, Sejong University. My expertise includes 3D modeling and structural analysis using tools such as Solidworks, Abaqus and ANSYS. I am proficient in programming such as Python, MATLAB and some frameworks such as Pytorch and Tensorflow. Additionally, I have hands-on experience with Linux, ROS, and 3D simulation using Unreal Engine.
 
-Regarding my experience, my research topic in Masters level is Vision-based Drone Obstacle Avoidance using Deep Reinforcement Learning. On the other hand, Delivery Drone Design was the topic of my graduate thesis in my undergraduate program.
+Regarding my experience, my research topic in Masters level is Vision-based Drone Obstacle Avoidance using Deep Reinforcement Learning. On the other hand, Designing of Delivery Drone was the topic of my graduate thesis in my undergraduate program.
 
 <p>
 <div class="wrapper">
