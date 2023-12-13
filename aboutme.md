@@ -22,7 +22,7 @@ Regarding my experience, my research topic in Masters level is Vision-based Dron
 My accomplishments include winning a Consolation prize in the Aeroday 2019 Aircraft Design and Control Competition (ranked 4th/11 teams). I was also granted a Scholarship for Standout Students with Disadvantaged Background by Kumho Asiana-Vietnam Scholarship and Cultural Foundation from 2019 until graduation. I graduated from university with an excellent degree and was in the top 3% of the best students in the Faculty of Transport (Top 4/150 students). 
 
 ![Aeroday Contest](img/contest.jpg)
-*Aeroday Contest - 2019 ([Link]([https://oisp.hcmut.edu.vn/en/student-life/aeroday-2019-aircraft-design-and-control-competition.html]))*
+*Aeroday Contest - 2019 ([Link](https://oisp.hcmut.edu.vn/en/student-life/aeroday-2019-aircraft-design-and-control-competition.html))*
 
 During my Masters course, I completed a drone project that required the drone to navigate and avoid 5 obstacles along the way using Reinforcement Learning. My drone achieved a 90% success rate in simulation and 80% in real-world deployment on a Bebop drone after fine-tuning with real images. I also recently won the Outstanding Paper Award (우수 논문상) given by the KIPS 2023 Annual Conference (Korean conference).
 
