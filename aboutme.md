@@ -15,7 +15,7 @@ In essence, I would describe myself as honest, responsible, and resilient. When 
 My life motto is: ”You only fail when you stop trying”
 
 ---
-### Projects and Contest
+### Images and references
 
 <p>
 <div class="wrapper">
