@@ -10,6 +10,7 @@ In essence, I would describe myself as honest, responsible, and resilient. When 
 My life motto is: ”You only fail when you stop trying”
 
 ---
+### History and Experience
 During my undergraduate education, I realized I have a passion for Artificial Intelligence, and want to use it to tackle real-world problems. This passion motivated my decision to pursue postgraduate education, leading me to enroll in the Master’s program after completing my Bachelor degree in 2021. Therefore, my expertise includes 3D modeling and structural analysis using tools such as Solidworks, Abaqus and ANSYS. I am proficient in programming such as Python, MATLAB and some frameworks such as Pytorch and Tensorflow. Additionally, I have hands-on experience with Linux, ROS, and 3D simulation using Unreal Engine.
 
 Regarding my experience, my research topic in Masters level is Vision-based Drone Obstacle Avoidance using Deep Reinforcement Learning. On the other hand, Designing of Delivery Drone was the topic of my graduate thesis in my undergraduate program.
