@@ -25,7 +25,6 @@ title: Khuong Diep
 navbar-links:
   About Me: "aboutme"
   Achievements: "achievements"
-  Activities: "activities"
   Resume/CV: "assets/Khuong_CV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
