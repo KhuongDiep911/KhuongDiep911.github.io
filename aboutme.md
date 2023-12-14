@@ -57,7 +57,7 @@ In addition to my academic achievements, I actively participate in social activi
 
 <div class="wrapper">
     <div class="h_iframe">
-       <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dbwrXjFUBB0GnBHgD9Hsat3vp8w_GUP4Jx1rcxfP1po&cl=ffffff&w=a"></script> 
+       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=n&d=dbwrXjFUBB0GnBHgD9Hsat3vp8w_GUP4Jx1rcxfP1po'></script>
     </div>
 </div>
 
